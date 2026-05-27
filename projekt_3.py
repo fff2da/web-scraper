@@ -3,7 +3,7 @@ projekt_3.py: třetí projekt
 
 author: Filip Koukal
 email: Kouka42211@mot.sps/dopravni.cz
-discord: f
+discord: zeroxxlol
 """
 
 import sys
