@@ -1,9 +1,9 @@
 """
 projekt_3.py: třetí projekt
 
-author: Jan Novak
-email: jan.novak@gmail.com
-discord: jan.novak#1234
+author: Filip Koukal
+email: Kouka42211@mot.sps/dopravni.cz
+discord: zeroxxlol
 """
 
 import sys
